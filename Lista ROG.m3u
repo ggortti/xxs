@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Jogo1" tvg-name="Jogo 1" group-title="Esportes",Jogo 1
+https://link-do-jogo-que-voce-vai-atualizar.com/stream.m3u8
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="Documentários",Discovery Channel
+https://rdcanais.com/discoverychannel
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" group-title="Documentários",History Channel
+https://rdcanais.com/history
