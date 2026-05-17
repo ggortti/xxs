@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Jogo1" tvg-name="Jogo 1",Jogo 1
+https://esportesembed.com/athletico-pr-x-flamengo-1
+
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery",Discovery Channel
+https://rdcanais.com/discoverychannel
+
+#EXTINF:-1 tvg-id="History" tvg-name="History",History Channel
+https://rdcanais.com/history
