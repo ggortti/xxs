@@ -2,6 +2,12 @@
 #EXTINF:-1 tvg-id="Jogo1" tvg-name="Jogo 1",Jogo 1
 https://esportesembed.com/athletico-pr-x-flamengo-1
 
+#EXTINF:-1 tvg-id="Jogo2" tvg-name="Jogo 2",Jogo 2
+https://esportesembed.com/athletico-pr-x-flamengo-2
+
+#EXTINF:-1 tvg-id="Jogo3" tvg-name="Jogo 3",Jogo 3
+https://esportesembed.com/athletico-pr-x-flamengo-4
+
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery",Discovery Channel
 https://rdcanais.com/discoverychannel
 
